@@ -4,17 +4,9 @@
 /Web.FlashMessage.Tests/bin
 /Web.FlashMessage/NuGet-Signed.exe
 /Web.FlashMessage/*.nupkg
-/Web.FlashMessage.Core/obj
-/Web.FlashMessage.Core/bin
-/Web.FlashMessage.MvcCoreExample/obj
-/Web.FlashMessage.MvcCoreExample/bin
 /Web.FlashMessage.MvcExample/obj
 /Web.FlashMessage.MvcExample/bin
 /packages
 /.vs
-/Web.FlashMessage.Core.Tests/obj
-/Web.FlashMessage.Core.Tests/bin
 *.nupkg
 /Web.FlashMessage.Package/lib
-/Web.FlashMessage.MvcCoreExampleLatest/bin
-/Web.FlashMessage.MvcCoreExampleLatest/obj
