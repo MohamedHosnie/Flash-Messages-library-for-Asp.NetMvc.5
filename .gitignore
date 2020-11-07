@@ -1,7 +1,5 @@
 /Web.FlashMessage/obj
 /Web.FlashMessage/bin
-/Web.FlashMessage.Tests/obj
-/Web.FlashMessage.Tests/bin
 /Web.FlashMessage/NuGet-Signed.exe
 /Web.FlashMessage/*.nupkg
 /Web.FlashMessage.MvcExample/obj
